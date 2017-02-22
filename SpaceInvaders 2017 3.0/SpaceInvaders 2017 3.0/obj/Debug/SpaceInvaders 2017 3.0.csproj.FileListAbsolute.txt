@@ -1,0 +1,9 @@
+c:\users\jamie\documents\visual studio 2015\Projects\SpaceInvaders 2017 3.0\SpaceInvaders 2017 3.0\bin\Debug\SpaceInvaders 2017 3.0.exe.config
+c:\users\jamie\documents\visual studio 2015\Projects\SpaceInvaders 2017 3.0\SpaceInvaders 2017 3.0\bin\Debug\SpaceInvaders 2017 3.0.exe
+c:\users\jamie\documents\visual studio 2015\Projects\SpaceInvaders 2017 3.0\SpaceInvaders 2017 3.0\bin\Debug\SpaceInvaders 2017 3.0.pdb
+c:\users\jamie\documents\visual studio 2015\Projects\SpaceInvaders 2017 3.0\SpaceInvaders 2017 3.0\obj\Debug\SpaceInvaders 2017 3.0.csprojResolveAssemblyReference.cache
+c:\users\jamie\documents\visual studio 2015\Projects\SpaceInvaders 2017 3.0\SpaceInvaders 2017 3.0\obj\Debug\SpaceInvaders_2017_3._0.Form1.resources
+c:\users\jamie\documents\visual studio 2015\Projects\SpaceInvaders 2017 3.0\SpaceInvaders 2017 3.0\obj\Debug\SpaceInvaders_2017_3._0.Properties.Resources.resources
+c:\users\jamie\documents\visual studio 2015\Projects\SpaceInvaders 2017 3.0\SpaceInvaders 2017 3.0\obj\Debug\SpaceInvaders 2017 3.0.csproj.GenerateResource.Cache
+c:\users\jamie\documents\visual studio 2015\Projects\SpaceInvaders 2017 3.0\SpaceInvaders 2017 3.0\obj\Debug\SpaceInvaders 2017 3.0.exe
+c:\users\jamie\documents\visual studio 2015\Projects\SpaceInvaders 2017 3.0\SpaceInvaders 2017 3.0\obj\Debug\SpaceInvaders 2017 3.0.pdb
