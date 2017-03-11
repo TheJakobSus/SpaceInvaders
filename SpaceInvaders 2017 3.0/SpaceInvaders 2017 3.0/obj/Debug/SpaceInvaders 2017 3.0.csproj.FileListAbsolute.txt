@@ -7,3 +7,4 @@ c:\users\jamie\documents\visual studio 2015\Projects\SpaceInvaders 2017 3.0\Spac
 c:\users\jamie\documents\visual studio 2015\Projects\SpaceInvaders 2017 3.0\SpaceInvaders 2017 3.0\obj\Debug\SpaceInvaders 2017 3.0.csproj.GenerateResource.Cache
 c:\users\jamie\documents\visual studio 2015\Projects\SpaceInvaders 2017 3.0\SpaceInvaders 2017 3.0\obj\Debug\SpaceInvaders 2017 3.0.exe
 c:\users\jamie\documents\visual studio 2015\Projects\SpaceInvaders 2017 3.0\SpaceInvaders 2017 3.0\obj\Debug\SpaceInvaders 2017 3.0.pdb
+C:\Users\Jamie\Documents\Visual Studio 2015\Projects\SpaceInvaders 2017 3.0\SpaceInvaders 2017 3.0\obj\Debug\SpaceInvaders_2017_3._0.PopUp.resources

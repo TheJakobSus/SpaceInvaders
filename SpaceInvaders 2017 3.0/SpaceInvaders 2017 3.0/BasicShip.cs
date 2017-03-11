@@ -25,6 +25,7 @@ namespace SpaceInvaders_2017_3._0
             g.FillRectangle(Brushes.DarkGray, position.X, position.Y, size, size);
         }
 
+
         public virtual void PaintBullet(PaintEventArgs e)
         {
             Graphics g = e.Graphics;
